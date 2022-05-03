@@ -12,3 +12,7 @@ To run the application fo to the App file and create a console.
 
 Then run the app in http://localhost:3000 using 'npm start'
 
+### deployment 
+
+https://coinfinder3.netlify.app/
+
